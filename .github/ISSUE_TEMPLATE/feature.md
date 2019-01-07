@@ -13,8 +13,8 @@ As a < type of user >, I want < some goal > so that < some reason >
 ### Screenshots
 ### Tasks
 #### API:
-- [ ] 
+- [ ] I should be able to <...>
 #### Web UI:
-- [ ] 
+- [ ] I should be able to <...>
 #### Documentation
 - [ ]
