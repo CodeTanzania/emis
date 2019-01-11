@@ -1,9 +1,11 @@
 language: node_js
 services:
  - mongodb
+ - redis-server
 node_js:
  - "11.1.0"
 before_script:
  - npm install -g grunt-cli
+ - redis-cli config set notify-keyspace-events Ex
 script:
   - commitlint-travis
