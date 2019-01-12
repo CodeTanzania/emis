@@ -36,7 +36,7 @@ EMIS follows [semantic versioning](http://semver.org/). We release patch version
 We are using [GitHub Issues](https://github.com/CodeTanzania/emis/issues) for our public bugs. Before filing a new task, try to make sure your problem doesn't already exist.
 
 
-### Proposing a Change
+## Proposing a Change
 
 If you intend to change the public API, or make any non-trivial changes to the implementation, we recommend [filing an issue](https://github.com/CodeTanzania/emis/issues/new). This lets us reach an agreement on your proposal before you put significant effort into it.
 
