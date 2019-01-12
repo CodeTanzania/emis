@@ -54,6 +54,11 @@ If you decide to fix an issue, please be sure to check the comment thread in cas
 If somebody claims an issue but doesn't follow up for more than two weeks, it's fine to take it over but you should still leave a comment.
 
 
+## Sending a Pull Request
+
+The core team is monitoring for pull requests. We will review your pull request and either merge it, request changes to it, or close it with an explanation. We'll do our best to provide updates and feedback throughout the process.
+
+
 ## Style Guide
 
 Look at [Airbnb's Style Guide](https://github.com/airbnb/javascript) will guide you in the right direction.
