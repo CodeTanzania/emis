@@ -43,6 +43,17 @@ If you intend to change the public API, or make any non-trivial changes to the i
 If you're only fixing a bug, it's fine to submit a pull request right away but we still recommend to file an issue detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
 
 
+## Your First Pull Request
+
+Working on your first Pull Request? You can learn how from this free video series:
+
+**[How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)**
+
+If you decide to fix an issue, please be sure to check the comment thread in case somebody is already working on a fix. If nobody is working on it at the moment, please leave a comment stating that you intend to work on it so other people don't accidentally duplicate your effort.
+
+If somebody claims an issue but doesn't follow up for more than two weeks, it's fine to take it over but you should still leave a comment.
+
+
 ## Style Guide
 
 Look at [Airbnb's Style Guide](https://github.com/airbnb/javascript) will guide you in the right direction.
