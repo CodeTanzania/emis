@@ -33,7 +33,7 @@ EMIS follows [semantic versioning](http://semver.org/). We release patch version
 
 ## Where to Find Known Issues
 
-We are using [GitHub Issues](https://github.com/CodeTanzania/emis/issues) for our public bugs. Before filing a new task, try to make sure your problem doesn't already exist.
+We are using [GitHub Issues](https://github.com/CodeTanzania/emis/issues) for all issues. Before filing a new task, try to make sure your problem doesn't already exist.
 
 
 ## Proposing a Change
