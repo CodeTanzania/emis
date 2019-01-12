@@ -36,6 +36,13 @@ EMIS follows [semantic versioning](http://semver.org/). We release patch version
 We are using [GitHub Issues](https://github.com/CodeTanzania/emis/issues) for our public bugs. Before filing a new task, try to make sure your problem doesn't already exist.
 
 
+### Proposing a Change
+
+If you intend to change the public API, or make any non-trivial changes to the implementation, we recommend [filing an issue](https://github.com/CodeTanzania/emis/issues/new). This lets us reach an agreement on your proposal before you put significant effort into it.
+
+If you're only fixing a bug, it's fine to submit a pull request right away but we still recommend to file an issue detailing what you're fixing. This is helpful in case we don't accept that specific fix but want to keep track of the issue.
+
+
 ## Style Guide
 
 Look at [Airbnb's Style Guide](https://github.com/airbnb/javascript) will guide you in the right direction.
