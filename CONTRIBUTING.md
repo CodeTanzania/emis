@@ -26,6 +26,11 @@ We will do our best to keep the [`master` branch](https://github.com/CodeTanzani
 If you send a pull request, please do it against the [`develop` branch](https://github.com/CodeTanzania/emis/tree/develop).
 
 
+## Semantic Versioning
+
+EMIS follows [semantic versioning](http://semver.org/). We release patch versions for bugfixes, minor versions for new features, and major versions for any breaking changes.
+
+
 ## License
 
 By contributing to EMIS, you agree that your contributions will be licensed under its MIT license.
