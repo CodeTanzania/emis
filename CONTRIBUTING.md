@@ -31,6 +31,11 @@ If you send a pull request, please do it against the [`develop` branch](https://
 EMIS follows [semantic versioning](http://semver.org/). We release patch versions for bugfixes, minor versions for new features, and major versions for any breaking changes.
 
 
+## Where to Find Known Issues
+
+We are using [GitHub Issues](https://github.com/CodeTanzania/emis/issues) for our public bugs. Before filing a new task, try to make sure your problem doesn't already exist.
+
+
 ## Style Guide
 
 Look at [Airbnb's Style Guide](https://github.com/airbnb/javascript) will guide you in the right direction.
