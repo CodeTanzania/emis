@@ -14,6 +14,11 @@ These are mostly guidelines, not rules. Use your best judgment, and feel free to
 The EMIS project has a [Code of Conduct](https://github.com/CodeTanzania/emis/blob/develop/CODE_OF_CONDUCT.md) to which all contributors must adhere.
 
 
+## License
+
+By contributing to EMIS, you agree that your contributions will be licensed under its MIT license.
+
+
 ## Developer's Certificate of Origin 1.1
 
 By making a contribution to this project, I certify that:
