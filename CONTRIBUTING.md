@@ -19,7 +19,7 @@ EMIS project has adopted a Code of Conduct that we expect project participants t
 All work on EMIS happens directly on [GitHub](https://github.com/CodeTanzania/emis). Both core team members and external contributors send pull requests which go through the same review process.
 
 
-### Branch Organization
+## Branch Organization
 
 We will do our best to keep the [`master` branch](https://github.com/CodeTanzania/emis/tree/master) in good shape, with tests passing at all times. 
 
