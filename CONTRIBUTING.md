@@ -11,7 +11,12 @@ These are mostly guidelines, not rules. Use your best judgment, and feel free to
 
 ## Code of Conduct
 
-The EMIS project has a [Code of Conduct](https://github.com/CodeTanzania/emis/blob/develop/CODE_OF_CONDUCT.md) to which all contributors must adhere.
+EMIS project has a [Code of Conduct](https://github.com/CodeTanzania/emis/blob/develop/CODE_OF_CONDUCT.md) to which all contributors must adhere.
+
+
+## Open Development
+
+All work on EMIS happens directly on [GitHub](https://github.com/CodeTanzania/emis). Both core team members and external contributors send pull requests which go through the same review process.
 
 
 ## License
