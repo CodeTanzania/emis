@@ -31,6 +31,11 @@ If you send a pull request, please do it against the [`develop` branch](https://
 EMIS follows [semantic versioning](http://semver.org/). We release patch versions for bugfixes, minor versions for new features, and major versions for any breaking changes.
 
 
+## Style Guide
+
+Look at [Airbnb's Style Guide](https://github.com/airbnb/javascript) will guide you in the right direction.
+
+
 ## License
 
 By contributing to EMIS, you agree that your contributions will be licensed under its MIT license.
