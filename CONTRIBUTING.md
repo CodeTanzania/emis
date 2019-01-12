@@ -6,6 +6,8 @@ EMIS is an open source project and we love to receive contributions from our com
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
+These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+
 
 ## Code of Conduct
 
