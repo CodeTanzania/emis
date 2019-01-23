@@ -85,7 +85,7 @@ The **header** is mandatory and the **scope** of the header is optional.
 Any line of the commit message cannot be longer 100 characters!. This allows the message to be easier to read on GitHub as well as in various git tools.
 
 ### Revert
-If the commit reverts a previous commit, it should begin with `revert: `, followed by the header of the reverted commit. In the body it should say: `This reverts commit <hash>.`, where the hash is the SHA of the commit being reverted. A commit with this format is automatically created by the [`git revert`][git-revert] command.
+If the commit reverts a previous commit, it should begin with `revert: `, followed by the header of the reverted commit. In the body it should say: `This reverts commit <hash>.`, where the hash is the SHA of the commit being reverted. A commit with this format is automatically created by the [`git revert`](https://git-scm.com/docs/git-revert) command.
 
 ### Type
 Must be one of the following:
@@ -113,9 +113,9 @@ The subject contains succinct description of the change:
 Just as in the **subject**, use the imperative, present tense: "change" not "changed" nor "changes". The body should include the motivation for the change and contrast this with previous behavior.
 
 ### Footer
-The footer should contain any information about **Breaking Changes** and is also the place to [reference GitHub issues that this commit closes][closing-issues].
+The footer should contain any information about **Breaking Changes** and is also the place to [reference GitHub issues that this commit closes](https://help.github.com/articles/closing-issues-using-keywords/).
 
-**Breaking Changes** should start with the word `BREAKING CHANGE:` with a space or two newlines. The rest of the commit message is then used for this. A detailed explanation can be found in this [document][commit-message-format].
+**Breaking Changes** should start with the word `BREAKING CHANGE:` with a space or two newlines. The rest of the commit message is then used for this. A detailed explanation can be found in this [document](#commit-message-format).
 
 
 ## License
