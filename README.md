@@ -1,6 +1,8 @@
 # emis
+
 [![Build Status](https://travis-ci.org/CodeTanzania/emis.svg?branch=develop)](https://travis-ci.org/CodeTanzania/emis)
 [![Dependencies Status](https://david-dm.org/CodeTanzania/emis/status.svg?style=flat-square)](https://david-dm.org/CodeTanzania/emis)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 > WIP
@@ -9,7 +11,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2018 CodeTanzania & Contributors
+Copyright (c) 2018 - present CodeTanzania & Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
