@@ -11,7 +11,9 @@
     "test:unit": "npm run pretest && NODE_ENV=test mocha --require @babel/register test/unit/**/*.spec.js",
     "test:integration": "npm run pretest && NODE_ENV=test mocha --require @babel/register test/integration/**/*.spec.js",
     "cmt": "git add . && git-cz",
-    "changelog": "changelog"
+    "changelog": "changelog",
+    "chore:deps": "ncu -u && npm install --save",
+    "chore:cleandeps": "rm -rf node_module && ncu -u && npm install --save"
   },
   "repository": {
     "type": "git",
