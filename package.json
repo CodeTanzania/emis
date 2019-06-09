@@ -6,6 +6,10 @@
   "scripts": {
     "clean": "rimraf lib dist es umd logs",
     "lint": "eslint --fix --ext .js test seed.js server.js worker.js ecosystem.config.js",
+    "pretest": "npm run lint",
+    "test": "NODE_ENV=test mocha --require @babel/register test/**/*.spec.js",
+    "test:unit": "npm run pretest && NODE_ENV=test mocha --require @babel/register test/unit/**/*.spec.js",
+    "test:integration": "npm run pretest && NODE_ENV=test mocha --require @babel/register test/integration/**/*.spec.js",
     "cmt": "git add . && git-cz",
     "changelog": "changelog"
   },
@@ -73,8 +77,8 @@
     "lodash": ">=4.17.11"
   },
   "engines": {
-    "node": ">=8.11.1",
-    "npm": ">=5.6.0"
+    "node": ">=12.4.0",
+    "npm": ">=6.9.0"
   },
   "config": {
     "commitizen": {
