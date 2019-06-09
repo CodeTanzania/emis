@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "clean": "rimraf lib dist es umd logs",
-    "lint": "eslint --fix --ext .js ecosystem.config.js",
+    "lint": "eslint --fix --ext .js test ecosystem.config.js",
     "cmt": "git add . && git-cz",
     "changelog": "changelog"
   },
