@@ -73,6 +73,7 @@
     "@lykmapipo/common": ">=0.20.2",
     "@lykmapipo/env": ">=0.8.1",
     "@lykmapipo/i18n": ">=0.1.8",
+    "@lykmapipo/logger": ">=0.3.3",
     "async": ">=3.0.1",
     "lodash": ">=4.17.11"
   },
