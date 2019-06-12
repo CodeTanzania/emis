@@ -1,6 +1,3 @@
-'use strict';
-
-/* dependencies */
 const { connect } = require('@lykmapipo/mongoose-common');
 const { Predefine } = require('@lykmapipo/predefine');
 const { Permission } = require('@lykmapipo/permission');
@@ -9,7 +6,7 @@ const { Role } = require('@codetanzania/emis-role');
 const { Party } = require('@codetanzania/emis-stakeholder');
 
 /* export models */
-module.exports = exports = {
+module.exports = {
   connect,
   Predefine,
   Permission,

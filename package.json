@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "clean": "rimraf lib dist es umd logs",
-    "lint": "eslint --fix --ext .js test seed.js server.js worker.js ecosystem.config.js",
+    "lint": "eslint --fix --ext .js test database.js seed.js server.js worker.js ecosystem.config.js",
     "pretest": "npm run lint",
     "test": "NODE_ENV=test mocha --require @babel/register test/**/*.spec.js",
     "test:unit": "npm run pretest && NODE_ENV=test mocha --require @babel/register test/unit/**/*.spec.js",
