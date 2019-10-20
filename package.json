@@ -70,7 +70,7 @@
     "npm-check-updates": "3.1.24",
     "prettier": "1.18.2",
     "rimraf": "3.0.0",
-    "rollup": "1.25.0"
+    "rollup": "1.25.1"
   },
   "peerDependencies": {},
   "dependencies": {
