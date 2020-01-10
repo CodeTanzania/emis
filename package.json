@@ -64,7 +64,7 @@
     "eslint-plugin-prettier": "3.1.2",
     "generate-changelog": "1.8.0",
     "handlebars": "4.6.0",
-    "husky": "3.1.0",
+    "husky": "4.0.6",
     "lint-staged": "9.5.0",
     "mocha": "6.2.2",
     "npm-check-updates": "3.2.2",
