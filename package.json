@@ -67,7 +67,7 @@
     "husky": "4.2.3",
     "lint-staged": "10.0.9",
     "mocha": "7.1.1",
-    "npm-check-updates": "4.0.6",
+    "npm-check-updates": "4.1.0",
     "prettier": "1.19.1",
     "rimraf": "3.0.2",
     "rollup": "2.1.0"
