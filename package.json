@@ -50,7 +50,7 @@
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
     "@commitlint/travis-cli": "8.3.5",
-    "@lykmapipo/express-test-helpers": "0.9.7",
+    "@lykmapipo/express-test-helpers": "0.9.8",
     "@lykmapipo/mongoose-test-helpers": "0.7.25",
     "chai": "4.2.0",
     "commitizen": "4.1.2",
