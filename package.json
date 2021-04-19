@@ -85,7 +85,7 @@
     "@lykmapipo/i18n": ">=0.1.11",
     "@lykmapipo/logger": ">=0.3.6",
     "@lykmapipo/mongoose-common": ">=0.25.9",
-    "@lykmapipo/mongoose-exportable": ">=0.3.6",
+    "@lykmapipo/mongoose-exportable": "0.3.36",
     "@lykmapipo/permission": ">=0.8.5",
     "@lykmapipo/postman": ">=0.10.2",
     "@lykmapipo/predefine": ">=0.6.0",
