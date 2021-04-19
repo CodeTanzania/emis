@@ -80,7 +80,7 @@
     "@lykmapipo/common": "0.43.1",
     "@lykmapipo/env": "0.17.31",
     "@lykmapipo/express-common": ">=0.17.9",
-    "@lykmapipo/express-rest-actions": ">=0.6.6",
+    "@lykmapipo/express-rest-actions": "0.8.28",
     "@lykmapipo/file": ">=0.1.6",
     "@lykmapipo/i18n": ">=0.1.11",
     "@lykmapipo/logger": ">=0.3.6",
