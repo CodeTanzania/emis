@@ -53,7 +53,7 @@
     "@lykmapipo/express-test-helpers": "0.9.16",
     "@lykmapipo/mongoose-test-helpers": "0.8.6",
     "chai": "4.3.4",
-    "commitizen": "4.2.3",
+    "commitizen": "4.2.4",
     "cz-conventional-changelog": "3.3.0",
     "doxdox": "3.0.0",
     "eslint": "7.25.0",
