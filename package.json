@@ -78,7 +78,7 @@
     "@codetanzania/emis-role": ">=1.5.2",
     "@codetanzania/emis-stakeholder": ">=1.9.0",
     "@lykmapipo/common": "0.43.2",
-    "@lykmapipo/env": "0.17.31",
+    "@lykmapipo/env": "0.17.33",
     "@lykmapipo/express-common": ">=0.17.9",
     "@lykmapipo/express-rest-actions": "0.8.28",
     "@lykmapipo/file": ">=0.1.6",
