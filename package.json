@@ -95,7 +95,7 @@
     "kue-scheduler": ">=0.9.4",
     "lodash": ">=4.17.15",
     "moment": ">=2.24.0",
-    "moment-timezone": ">=0.5.26",
+    "moment-timezone": ">=0.5.35",
     "mongoose": ">=5.6.7",
     "mongoose-geojson-schemas": ">=0.10.8",
     "mongoose-kue": ">=0.8.4",
